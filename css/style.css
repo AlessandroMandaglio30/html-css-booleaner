@@ -41,3 +41,22 @@
 .lista{
     margin-left:-2%;
 }
+
+.tabella{
+    color: rgb(67, 147, 238)61;
+    padding: 10px;
+    color:white;
+    background: #3ca2f5;
+    font-size: 10px;
+    text-align: left;
+    font-weight: bold;
+    }
+
+.tabella th{
+    border-bottom: 3px solid #B9B29F;
+    padding: 10px;
+    text-align: left;
+}
+
+}
+  
