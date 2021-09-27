@@ -1,4 +1,41 @@
 .img{
     background-image: url(../img/pattern.png);
     height: 200px; 
+    background-color:rgb(74, 238, 238);
+}
+
+.the{
+    position: absolute;
+    font: bold 22px Georgia;
+    color: white;
+    padding:10px;       
+    top: 100px;
+    left: 10;
+    width: 100%;
+}
+
+.Booleaner{
+    position: absolute;
+    font: bold 30px Georgia;
+    color: white;
+    padding:10px;       
+    top: 120px;
+    left: 10;
+    width: 100%;
+}
+
+/* .titolo{
+    margin-bottom: 5px;
+} */
+.titolo h1 {
+    font-size: 55px;
+    margin-bottom: -10px;
+}
+.titolo p{
+    font-size: 15px;
+    color:gray;
+    margin-bottom: -10px;
+}
+#cambiocolore{
+    color: rgb(74, 238, 238);
 }
