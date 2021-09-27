@@ -20,8 +20,20 @@
 .titolo p{
     font-size: 15px;
     color:gray;
-    margin-bottom: -10px;
 }
+
 #cambiocolore{
     color: rgb(74, 238, 238);
+}
+
+.descrizione h6{
+  margin-top: 0px;
+}
+
+#spaziatura{
+    margin-top: -20px;
+}
+
+.yellow{
+    background-color: yellow;
 }
